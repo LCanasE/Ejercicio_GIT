@@ -3,4 +3,5 @@ function sumar(numero){
 }
 console.log(sumar);
 
-let colores = 'rojo';
+let color1 = 'rojo';
+let color2 = "verde";
